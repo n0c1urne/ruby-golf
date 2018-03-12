@@ -1,9 +1,5 @@
 # Ruby Golf
 
-A ruby golf course setup for the [Bath Ruby November 2014 meetup](http://www.meetup.com/bathruby/events/212826382/).
-
-The structure is based on [LRUG ruby-golf](https://github.com/andrewmcdonough/rubygolf) by @andrewmcdonough from 2011.
-
 ## Requirements
 
   * Ruby 2.1 or greater
@@ -12,8 +8,6 @@ The structure is based on [LRUG ruby-golf](https://github.com/andrewmcdonough/ru
 ## Setup
 
     bundle install
-
-Fork the [project on GitHub](https://github.com/bathruby/ruby-golf) and push your version of `lib/golf.rb` when you've finished.
 
 ## How to play
 

@@ -1,0 +1,16 @@
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/golf_spec.rb'
+
+Security/Open:
+  Exclude:
+    - 'Rakefile'
+
+Layout/LineLength:
+  Exclude:
+    - 'spec/golf_spec.rb'
+
+# allow short variables
+Naming/MethodParameterName:
+  Exclude:
+    - 'lib/golf.rb'
